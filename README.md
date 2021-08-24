@@ -73,14 +73,15 @@ Luego de leer esta breve introducción, debes contestar esta guía:
 
 1. ¿Cuál es tu nombre?
 
-R:
+R: vicente tomás opazo cortés
 
 2. ¿Cuál es la diferencia entre R y RStudio?
 
-
-R:
+R: R corresponde a un lenguaje de programación que permite elaborar, intercambiar y reescribir diversos procedimientos estadísticos (e. g, manipulación, procesamiento y análisis de datos). Rstudio, por su parte, es un software de visualización que permite manejar los datos de manera más "limpia" y amigable que la consola de R. De esta forma, consiste en una herramienta del environment de R.
 
 3. ¿Con qué comando puedes **subir** los cambios del repositorio local al remoto?
+
+R: El comando correspondiente a la función "subir" en Github es Push.
 
 4. Crea un .Rproject llamado 00-tarea.Rproject
 
